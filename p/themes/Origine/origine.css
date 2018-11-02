@@ -330,6 +330,8 @@ a.btn {
 	box-shadow: 3px 3px 3px #ddd;
 	font-size: 0.8rem;
 	text-align: left;
+	max-height: 60vh;
+	overflow: hidden auto;
 }
 .dropdown-menu::after {
 	content: "";
